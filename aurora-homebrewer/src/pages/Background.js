@@ -1,5 +1,5 @@
 import React from 'react'
-import { skills, toolProf, selectableToolProf, languages } from '../data/lists';
+import { skills, toolProf, selectableToolProf } from '../data/lists';
 import downloadFile from '../utils/downloadFile';
 
 const Background = () => {
