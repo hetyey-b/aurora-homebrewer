@@ -1,6 +1,7 @@
 import './App.css';
 import Background from './pages/Background';
 import Home from './pages/Home';
+import Race from './pages/Race';
 import Tabs from './tabs/Tabs';
 
 function App() {
@@ -17,6 +18,10 @@ function App() {
 							title: "Background",
 							content: <Background />
 						},
+						{
+							title: "Race",
+							content: <Race />
+						}
 					]
 				}
 			/>
