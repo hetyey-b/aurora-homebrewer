@@ -1,5 +1,6 @@
 import './App.css';
-import Background from './forms/Background';
+import Background from './pages/Background';
+import Home from './pages/Home';
 import Tabs from './tabs/Tabs';
 
 function App() {
@@ -9,16 +10,12 @@ function App() {
 				tabs={
 					[
 						{
+							title: "Home",
+							content: <Home />
+						},
+						{
 							title: "Background",
 							content: <Background />
-						},
-						{
-							title: "2 ASD",
-							content: <div>Hello World 2</div>
-						},
-						{
-							title: "3 ASD",
-							content: <div>Hello World 3</div>
 						},
 					]
 				}
