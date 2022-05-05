@@ -4,7 +4,7 @@ const Home = () => {
 	return(
 		<div>
 			<h1 className='text-lg text-center'>
-				Welcome to Aurora Homebrewer/
+				Welcome to Aurora Homebrewer!
 			</h1>
 			<h2 className='text-center italic'>
 				Created by <a href="https://github.com/hetyey-b" className='border-b-[1px] border-dashed border-b-black'>Botond Hetyey</a>
