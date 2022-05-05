@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aurora-homebrewer/static/css/main.1e32ace3.css",
+    "main.js": "/aurora-homebrewer/static/js/main.c5c36cfa.js",
+    "static/js/787.5b444ee9.chunk.js": "/aurora-homebrewer/static/js/787.5b444ee9.chunk.js",
+    "index.html": "/aurora-homebrewer/index.html",
+    "main.1e32ace3.css.map": "/aurora-homebrewer/static/css/main.1e32ace3.css.map",
+    "main.c5c36cfa.js.map": "/aurora-homebrewer/static/js/main.c5c36cfa.js.map",
+    "787.5b444ee9.chunk.js.map": "/aurora-homebrewer/static/js/787.5b444ee9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e32ace3.css",
+    "static/js/main.c5c36cfa.js"
+  ]
+}
